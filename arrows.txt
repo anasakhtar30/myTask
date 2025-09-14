@@ -1,6 +1,2 @@
--> arrow right
-<- arrow left
--> arrow right
-<- arrow left
-
-
+The ship glides gently on the waves
+As day turns into night
